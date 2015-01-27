@@ -1,6 +1,7 @@
 #coding: utf-8
 
 import sys
+from requests import get
 from pyflare import PyflareClient
 
 # parsing command line arguments
