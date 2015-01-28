@@ -1,6 +1,6 @@
 # Cloudflare Dynamic DNS
 
-A script with which Cloudflare can be used as a Dynamic DNS system which continuously makes sure that your external IP is mapped to your desired Domain.
+A script with which Cloudflare can be used as a dynamic DNS system which continuously makes sure that your external IP is mapped to your desired domain.
 
 ## Prerequesites
 
